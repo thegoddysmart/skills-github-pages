@@ -4,10 +4,10 @@ title: Welcome to my blog!
 
 
 ---
-title: Welcome to My GitHub Page
+Welcome to My GitHub Page
 ---
 
-# Hello, World! 🌍
+# Hello, chvmps! 🌍
 
 Welcome to my GitHub Pages site.  
 I'm **Godfred Awudi**, and this is a place where I share my projects, ideas, and portfolio.
